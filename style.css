@@ -1,0 +1,147 @@
+body {
+background: linear-gradient(to bottom, white, #9D4C93);
+}
+
+header {
+  border-bottom: #818181 2.5px solid;
+  border-top: #818181 5px solid;
+  border-right: #818181 3px solid;
+  border-left: #818181 3px solid;
+}
+
+h1 {
+  margin-top: 0;
+  padding-bottom: 15px;
+  border-bottom: 1px solid #eee;
+  margin-bottom: 15px;
+}
+.jumbotron {
+  background-image: url("./picture folder/pexels-photo-7.jpg");
+  background-size: 100% 100%;
+  height: 100%;
+  text-align: center;
+}
+
+header h1 {
+  text-transform: uppercase;
+  text-align: center;
+  color: #fff;
+  line-height: 50px;
+  font-weight: bolder;
+  font-family: monospace;
+}
+
+header h2 {
+  font-variant: small-caps;
+  text-align: center;
+  color: #fff;
+}
+
+header p {
+  font-variant: small-caps;
+  text-align: center;
+  color: #fff;
+}
+
+header a {
+  color: black;
+}
+
+.type-wrap {
+  text-align: center;
+  color:
+}
+
+.spinner {
+  text-align: center;
+}
+
+
+img {
+  height: 200px;
+  background: #aaa;
+}
+
+/* showcase section style*/
+#showcase {
+  min-height: 300px;
+  background:url("./picture folder/firstimage.jpg");
+  background-size: 100% 100%;;
+  height: 100%;
+  margin-top: 60px;
+}
+
+.opacity {
+  opacity: 0.8;
+  font-variant: small-caps;
+  text-transform: lowercase;
+  font-size: 11px;
+}
+
+.centre {
+  text-align: center;
+}
+.card {
+  margin-top: 60px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+
+#Aboutus {
+  padding-top: 60px;
+}
+
+
+
+/* contact section style*/
+
+#contact {
+  padding-top: 60px;
+}
+.contact {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.comment_box
+{
+  border-style:solid;
+  border-width:1px;
+  float:50%;
+  color: #fff;
+  background-color:#231424;
+  width:300px;
+  padding-left:20px;
+  padding-right:20px;
+  padding-top:25px;
+  padding-bottom:10px;
+}
+
+/* follow section style */
+.follow img {
+  height: 50px;
+  width: 50px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.follow a{
+  text-decoration: none;
+}
+
+.follow img:hover {
+  opacity: 0.8;
+  background: #818181;
+}
+
+.follow {
+  text-align: center;
+}
+
+
+#readmoree img {
+  height: 100%;
+  width: 100%;
+  margin-bottom: 40px;
+}
